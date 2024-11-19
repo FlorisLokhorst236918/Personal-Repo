@@ -1,0 +1,23 @@
+﻿age_id;age_name;age_group
+1;<5 years;Infants
+2;0-6 days;Infants
+3;7-27 days;Infants
+6;5-9 years;children
+7;10-14 years;children
+8;15-19 years;Teens
+9;20-24 years;Young adults
+10;25-29 years;Young adults
+11;30-34 years;Adults
+12;35-39 years;Adults
+13;40-44 years;Adults
+14;45-49 years;Adults
+15;50-54 years;Adults
+16;55-59 years;Adults
+17;60-64 years;Adults
+18;65-69 years;Elderly
+19;70-74 years;Elderly
+20;75-79 years;Elderly
+21;80+ years;Elderly
+22;All ages;All ages
+23;5-14 years;Teens
+27;Age-standardized;Age-standardized
